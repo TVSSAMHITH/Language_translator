@@ -32,6 +32,7 @@ git clone https://github.com/TVSSAMHITH/Language_translator.git
 ## Demo
 
 For a live demonstration of the language translator web application, you can visit the following link: [Language Translator Demo]
+https://tvssamhith.github.io/Language_translator/
 
 ## Feedback and Contributions
 
